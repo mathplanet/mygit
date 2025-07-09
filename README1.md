@@ -10,6 +10,7 @@
 
 
 # 3. 프로젝트 개요
+
 ## 프로젝트 주제
 데이터 분석과 머신러닝/딥러닝 - 가입 고객 이탈 예측
 
@@ -22,18 +23,22 @@
 ## 모델 사용자
 
 # 4. 기술스택
+
 ### Environment
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-61DAFB?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/figma-FFCA28?style=for-the-badge&logo=figma&logoColor=white"
 
+
 ### Development
 <img src="https://img.shields.io/badge/kaggle-003545?style=for-the-badge&logo=kaggle&logoColor=white">
+
 
 ### Communication
 <img src="https://img.shields.io/badge/Discord-02569B?style=for-the-badge&logo=Discord&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-F7DF1E?style=for-the-badge&logo=notion&logoColor=black">
+
 
 # 5. 사용모델
 
