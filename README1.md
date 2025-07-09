@@ -24,7 +24,7 @@
 ### Enviorment
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-[![Editor](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+<img src="https://img.shields.io/badge/Visual Studio Code-61DAFB?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 ### Development
 <img src="https://img.shields.io/badge/kaggle-003545?style=for-the-badge&logo=kaggle&logoColor=white">
