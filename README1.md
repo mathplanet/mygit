@@ -28,7 +28,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-61DAFB?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/figma-FFCA28?style=for-the-badge&logo=figma&logoColor=white"
+<img src="https://img.shields.io/badge/figma-FFCA28?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/streamlit-7952B3?style=for-the-badge&logo=streamlit&logoColor=white">
 
 
 ### Development
